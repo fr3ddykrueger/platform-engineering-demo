@@ -14,4 +14,4 @@ data:
   # Enables application status badge feature
   statusbadge.enabled: "true"
   context: |
-    argocdUrl: "https://animated-robot-9w9vp5qpr9qfxgqp-30100.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER"  
+    argocdUrl: "https://animated-robot-9w9vp5qpr9qfxgqp-30100.app.github.dev"  
